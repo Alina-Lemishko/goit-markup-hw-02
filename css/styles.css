@@ -94,7 +94,7 @@ body {
   color: var(--primary-white-color);
   background-color: var(--accent-color);
 
-  font-family: Roboto, sans-serif;
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -181,7 +181,7 @@ body {
 }
 
 .footer-items .link {
-  font-weight: 400;
+  font-weight: inherit;
   line-height: 1.71;
   text-decoration: none;
   font-style: normal;
